@@ -1,0 +1,9 @@
+python-actionlib
+python-rospy
+yolov4
+cvbridge3
+opencv-python
+python-smach
+smach
+roslibpy
+smach_ros

@@ -1,0 +1,12 @@
+# Request
+string roomname
+string itemname
+---
+# Result
+string[] item_name_list
+int32[] item_count_list
+time time
+---
+# Feedback
+string[] item_name_list
+int32[] item_count_list
